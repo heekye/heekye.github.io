@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "희규의 블로그"
 title_separator          : "|"
-subtitle                 : "살피고, 관찰하고, 변화한"
+subtitle                 : "살피고, 관찰하고, 변화한다다"
 name                     : "방희규"
 description              : "무엇인고고"
 url                      : "https://hkbang.github.io"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Heekyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "happy richer"
+  bio              : "happy & rich"
   location         : "South Korea | Seoul"
-  email            :
+  email            : "heekye@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
