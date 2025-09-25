@@ -19,9 +19,9 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "희규의 블로그"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "살피고, 관찰하고, 변화한"
 name                     : "방희규"
-description              : "살피고, 관찰하고, 변화한"
+description              : "무엇인고고"
 url                      : "https://hkbang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Heekyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "happy richer"
+  location         : "South Korea | Seoul"
   email            :
   links:
     - label: "Email"
