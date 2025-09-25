@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "mint" # "default" # "air", "aqua", "contrast", "dark
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "희규의 블로그"
+title                    : "제임스의 블로그"
 title_separator          : "|"
-subtitle                 : "살피고, 관찰하고, 변화한다다"
-name                     : "방희규"
+subtitle                 : "살피고, 관찰하고, 변화한다"
+name                     : "제임스방"
 description              : "무엇인고고"
 url                      : "https://hkbang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heekyu"
+  name             : "James"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "happy & rich"
   location         : "South Korea | Seoul"
-  email            : "heekye@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
