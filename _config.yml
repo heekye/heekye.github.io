@@ -21,8 +21,8 @@ title                    : "제임스의 블로그"
 title_separator          : "|"
 subtitle                 : "살피고, 관찰하고, 변화한다"
 name                     : "제임스방"
-description              : "무엇인고고"
-url                      : "https://hkbang.github.io"
+description              : "기술 내용"
+url                      : "https://heekye.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -326,4 +326,4 @@ defaults:
       share: true
       related: true
       show_date: true
-      date_format : "%Y-%m-%d"
+date_format : "%Y-%m-%d"
